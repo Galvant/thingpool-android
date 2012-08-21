@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ThingPool</string>
+    <string name="title_thing_detail">Thing Detail</string>
+    <string name="title_thing_list">Things</string>
+
+</resources>
